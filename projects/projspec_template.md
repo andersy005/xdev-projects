@@ -6,7 +6,7 @@
 ## Repositories
 [List all GitHub repositories (one per line) pertaining to this project and its work]
 
-## Skills
+## Skills & Knowledge
 [List skills or knowledge (one per line) that are needed to complete this project]
 
 ## Deliverables
