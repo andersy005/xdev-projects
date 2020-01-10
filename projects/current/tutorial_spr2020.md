@@ -1,4 +1,8 @@
-# Project: Spring 2020 Tutorial
+# Project: Tutorial-S20
+
+Spring 2020 Python Tutorial
+
+## Campaign: E&O
 
 ## Overview
 We need to conduct another Python tutorial for the Spring 2020 time-frame.
@@ -14,8 +18,8 @@ The target audience will be NCAR staff and their external collaborators.
 - https://github.com/ncar-hackathons
 
 ## Skills & Knowledge
-Previous modules in NCAR/ncar-python-tutorial
-Other tutorial materials (ncar-hackathons)
+- Previous modules in NCAR/ncar-python-tutorial
+- Other tutorial materials (ncar-hackathons)
 
 ## Deliverables
 1. Survey to solicit interest and registration

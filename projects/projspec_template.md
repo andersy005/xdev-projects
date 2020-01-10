@@ -1,5 +1,9 @@
 # Project: Codename
 
+Long Project Name
+
+## Campaign: Campaign-Codename
+
 ## Overview
 [General overview of the project, motivation and justification.]
 
@@ -14,8 +18,8 @@
 
 ## Milestones & Timeline
 
-| Milestone    | Deadline   |
-|--------------|------------|
-| Milestone 1  | 2020-01-10 |
-| Milestone 1  | 2020-01-10 |
-| Milestone 1  | 2020-01-10 |
+| Milestone   | Deadline   |
+|-------------|------------|
+| Milestone 1 | 2020-01-10 |
+| Milestone 2 | 2020-01-10 |
+| Milestone 3 | 2020-01-10 |
