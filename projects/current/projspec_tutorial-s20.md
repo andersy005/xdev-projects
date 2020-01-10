@@ -2,7 +2,7 @@
 
 Spring 2020 Python Tutorial
 
-## Campaign: E&O
+## Campaign: EOCB
 
 ## Overview
 
@@ -14,15 +14,18 @@ intermediate tutorial, and a hackathon.
 The target audience will be NCAR staff and their external collaborators.
 
 ## Repositories
+
 - https://github.com/NCAR/ncar-python-tutorial
 - https://github.com/NCAR/python-setup-scripts (TBD)
 - https://github.com/ncar-hackathons
 
 ## Skills & Knowledge
+
 - Previous modules in NCAR/ncar-python-tutorial
 - Other tutorial materials (ncar-hackathons)
 
 ## Deliverables
+
 1. Survey to solicit interest and registration
 2. Provide scripts to setup Python environments for tutorial participants
    1. Separate repository / package
