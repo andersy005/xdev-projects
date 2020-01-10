@@ -9,7 +9,7 @@ intermediate tutorial, and a hackathon.
 The target audience will be NCAR staff and their external collaborators.
 
 ## Repositories
-https://github.com/NCAR/ncar-python-tutorial
+- https://github.com/NCAR/ncar-python-tutorial
 https://github.com/NCAR/python-setup-scripts (TBD)
 https://github.com/ncar-hackathons
 
