@@ -11,7 +11,7 @@ The target audience will be NCAR staff and their external collaborators.
 ## Repositories
 - https://github.com/NCAR/ncar-python-tutorial
 https://github.com/NCAR/python-setup-scripts (TBD)
-https://github.com/ncar-hackathons
+- https://github.com/ncar-hackathons
 
 ## Skills & Knowledge
 Previous modules in NCAR/ncar-python-tutorial
