@@ -5,6 +5,7 @@ Spring 2020 Python Tutorial
 ## Campaign: E&O
 
 ## Overview
+
 We need to conduct another Python tutorial for the Spring 2020 time-frame.
 Dates are expected to be late-March through early-April.  In this tutorial,
 we will split the tutorial into 3 separate events: a beginner tutorial, an
