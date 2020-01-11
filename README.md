@@ -33,7 +33,7 @@ Our work can be categorized into one of two categories:
 
 This repository is meant to help organize and plan our *project* work.  The intent
 is for each project to be described by a single document, a *Project Specification*
-document.  A template for this document exists in the `templates` directory.
+document.  A template for this document exists in the `projects` directory.
 Similarly, *Campaign Specification* documents should be created, too, though the
 requirements for defining a campaign as much less stringent.
 
