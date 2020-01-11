@@ -58,11 +58,11 @@ requirements for defining a campaign as much less stringent.
   templates.
 
   - **`campaigns/campspec_template.md`**: A template for *Campaign Specification*
-    documents.  When a new project is defined/specified, it should be named
+    documents.  When a new campaign is defined/specified, it should be named
     `campspec_{codename}` where `{codename}` is replaced by the campaign codename.
-  - **`campaigns/current/`**: All project specification documents for on-going
-    projects should be placed here.
-  - **`campaigns/complete/`**: All project specification documents for completed
-    projects should be placed here.
-  - **`campaigns/construction/`**: All project specification documents for projects
+  - **`campaigns/current/`**: All campaign specification documents for on-going
+    campaigns should be placed here.
+  - **`campaigns/complete/`**: All campaign specification documents for completed
+    campaignS should be placed here.
+  - **`campaigns/construction/`**: All campaign specification documents for campaigns
     that are still being constructed/specified should be placed here.
