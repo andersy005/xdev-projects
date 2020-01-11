@@ -2,7 +2,10 @@
 
 [Long Project Name]
 
-## Campaign: {Campaign:CODENAME}
+## Campaigns:
+
+- {Campaign:CODENAME1}
+- {Campaign:CODENAME2}
 
 ## Overview
 
