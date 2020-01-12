@@ -5,7 +5,7 @@
   - [Overview](#overview)
   - [Repositories](#repositories)
   - [Skills & Knowledge](#skills--knowledge)
-  - [Deliverables - Functionality](#deliverables---functionality)
+  - [Deliverables](#deliverables)
     - [esm-collection-spec side](#esm-collection-spec-side)
     - [intake-esm side](#intake-esm-side)
   - [Milestones & Timeline](#milestones--timeline)
@@ -27,11 +27,11 @@ The current spec requires that the `catalog_file` point to a `csv file`. In some
 
 - Familiarity with [esm collection specification](https://github.com/NCAR/esm-collection-spec/blob/master/collection-spec/collection-spec.md)
 
-## Deliverables - Functionality
+## Deliverables
 
 - Make `catalog_file` key optional and support a key `catalog_dict` which is a json dictionary that represents the data that would otherwise be in the csv. Exactly one of the two keys would be required but the catalog creator could choose.
 
-The `catalog_dict` dictionary can be expressed as 
+The `catalog_dict` dictionary can be expressed in two ways:
 
 **Option 1) dict**: dict like ```{column -> {index -> value}}```:
 
@@ -210,7 +210,7 @@ or
 ### esm-collection-spec side
 
 - [ ] Update the [specification file](https://github.com/NCAR/esm-collection-spec/blob/master/collection-spec/collection-spec.md)
-- [ ] Update the [validator script](https://github.com/NCAR/esm-collection-spec/blob/master/esmcol_validator/validator.py)
+- [ ] Update the [validator script](https://github.com/NCAR/esm-collection-spec/blob/master/esmcol_validator/validator.py) -- this deliverable is not crucial. The existing validator is not up-to-date :)
 
 ### intake-esm side
 
