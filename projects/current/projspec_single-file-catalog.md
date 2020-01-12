@@ -1,17 +1,35 @@
 # Project: Single File Catalog
 
-[TOC]
+- [Project: Single File Catalog](#project-single-file-catalog)
+  - [Campaign](#campaign)
+  - [Overview](#overview)
+  - [Repositories](#repositories)
+  - [Skills & Knowledge](#skills--knowledge)
+  - [Deliverables - Functionality](#deliverables---functionality)
+    - [esm-collection-spec side](#esm-collection-spec-side)
+    - [intake-esm side](#intake-esm-side)
+  - [Milestones & Timeline](#milestones--timeline)
+  - [References](#references)
+          - [tags: `intake-esm` `esm-collection-spec`](#tags-intake-esm-esm-collection-spec)
+
+## Campaign
 
 ## Overview
 
 The current spec requires that the `catalog_file` point to a `csv file`. In some cases, it would be useful to embed the catalog "table" in the catalog itself. A so called single-file-catalog. STAC has an extension that does this (see [here](https://github.com/radiantearth/stac-spec/tree/master/extensions/single-file-stac)).
 
+## Repositories
 
+- https://github.com/NCAR/esm-collection-spec
+- https://github.com/NCAR/intake-esm
 
+## Skills & Knowledge
+
+- Familiarity with [esm collection specification](https://github.com/NCAR/esm-collection-spec/blob/master/collection-spec/collection-spec.md)
 
 ## Deliverables - Functionality
 
-- Make `catalog_file` key optional and support a key `catalog_dict` which is a json dictionary that represents the data that would otherwise be in the csv. Exactly one of the two keys would be required but the catalog creator could choose. 
+- Make `catalog_file` key optional and support a key `catalog_dict` which is a json dictionary that represents the data that would otherwise be in the csv. Exactly one of the two keys would be required but the catalog creator could choose.
 
 The `catalog_dict` dictionary can be expressed as 
 
@@ -101,11 +119,11 @@ The `catalog_dict` dictionary can be expressed as
 }
 ```
 
-or 
+or
 
 **Option 2) records**: ```[{column -> value}, ... , {column -> value}]```
 
-```yaml 
+```yaml
 {
     "esmcat_version":"0.1.0",
     "id":"aws-cesm1-le",
@@ -189,8 +207,6 @@ or
 }
 ```
 
-
-
 ### esm-collection-spec side
 
 - [ ] Update the [specification file](https://github.com/NCAR/esm-collection-spec/blob/master/collection-spec/collection-spec.md)
@@ -210,7 +226,6 @@ or
        ...
 ```
 
-        
 - [ ] Update [`_fetch_catalog()` method](https://github.com/NCAR/intake-esm/blob/master/intake_esm/core.py#L126) so that it can support reading the catalog from dictionary specified in `catalog_dict`:
 
 ```python
@@ -219,7 +234,6 @@ or
     def _fetch_catalog(self):
         """Get the catalog content and cache it.
         """
-        
         if 'catalog_file' in self._col_data:
             return pd.read_csv(self._col_data['catalog_file'])
         else:
@@ -227,11 +241,11 @@ or
        ...
 ```
 
+## Milestones & Timeline
 
-## Milestones - Metrics (TODO)
-
-## Timeline (TODO)
-
+| Milestone        | Deadline   |
+| ---------------- | ---------- |
+| 1. Lorem Ipsum.. | 2020-xx-xx |
 
 ## References
 
@@ -240,8 +254,5 @@ or
 - [https://github.com/NCAR/intake-esm/pull/179#issuecomment-553630201](https://github.com/NCAR/intake-esm/pull/179#issuecomment-553630201)
 
 - [https://github.com/NCAR/intake-esm/issues/166](https://github.com/NCAR/intake-esm/issues/166)
-
-
-
 
 ###### tags: `intake-esm` `esm-collection-spec`
