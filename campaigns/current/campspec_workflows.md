@@ -8,7 +8,7 @@ In a very general sense, scientific data analysis workflows usually have a
 particular process structure to them:
 
 1. **Search & Discovery**: Locate the data you need to analyze
-2. **Injestion**: Open and read this data
+2. **Ingestion**: Open and read this data
 3. **Analysis**: Perform some computations on this data
 4. **Check-point**: Save computed artifact as a new dataset
 5. **Visualize**: Produce images (e.g., for publication) from the computed artifact
@@ -51,7 +51,7 @@ step that occurs via DASH could then be made "push-button" with no
 cut-and-paste step between the user's DASH session and their Jupyter-based
 analysis.
 
-### Injestion
+### Ingestion
 
 
 
