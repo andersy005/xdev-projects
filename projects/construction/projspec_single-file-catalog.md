@@ -245,9 +245,9 @@ or
 
 ## Milestones & Timeline
 
-| Milestone        | Deadline   |
-| ---------------- | ---------- |
-| 1. Lorem Ipsum.. | 2020-xx-xx |
+| Milestone        | Deadline   | Complete |
+| ---------------- | ---------- | -------- |
+| 1. Lorem Ipsum.. | 2020-xx-xx | &#9744;  |
 
 ## References
 

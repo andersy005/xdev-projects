@@ -54,17 +54,17 @@ The target audience will be NCAR staff and their external collaborators.
 
 ## Milestones & Timeline
 
-| Milestone                                  | Deadline         |
-|--------------------------------------------|------------------|
-| 1. Reserve rooms                           | 2020-01-10       |
-| 2. Registration/Survey Form & Announcement | 2020-01-17       |
-| 3. Registration/Survey Pre-Analysis        | 2020-02-14       |
-| 4. Setup Scripts Package                   | 2020-03-01       |
-| 5. Beginner Track Material                 | 2020-03-23       |
-| 6. Beginner Track Tutorial                 | 2020-03-26       |
-| 7. Intermediate Track Material             | 2020-04-03       |
-| 8. Hackathon Material                      | 2020-04-03       |
-| 9. Intermediate Track Tutorial             | 2020-04-06       |
-| 10. Hackathon                              | 2020-04-06       |
-| 11. Participant Feedback Survey            | 2020-04-10       |
-| 12. Feedback Survey Analysis               | 2020-04-13       |
+| Milestone                                  | Deadline         | Complete |
+|--------------------------------------------|------------------|----------|
+| 1. Reserve rooms                           | 2020-01-10       | &#9745;  |
+| 2. Registration/Survey Form & Announcement | 2020-01-17       | &#9745;  |
+| 3. Registration/Survey Pre-Analysis        | 2020-02-14       | &#9744;  |
+| 4. Setup Scripts Package                   | 2020-03-01       | &#9744;  |
+| 5. Beginner Track Material                 | 2020-03-23       | &#9744;  |
+| 6. Beginner Track Tutorial                 | 2020-03-26       | &#9744;  |
+| 7. Intermediate Track Material             | 2020-04-03       | &#9744;  |
+| 8. Hackathon Material                      | 2020-04-03       | &#9744;  |
+| 9. Intermediate Track Tutorial             | 2020-04-06       | &#9744;  |
+| 10. Hackathon                              | 2020-04-06       | &#9744;  |
+| 11. Participant Feedback Survey            | 2020-04-10       | &#9744;  |
+| 12. Feedback Survey Analysis               | 2020-04-13       | &#9744;  |

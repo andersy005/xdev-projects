@@ -27,6 +27,6 @@
 
 | Milestone     | Deadline     | Complete |
 |---------------|--------------|----------|
-| {Milestone 1} | {2020-01-10} | <ul><li>[ ]</li></ul> |
-| {Milestone 2} | {2020-02-10} | <ul><li>[ ]</li></ul> |
-| {Milestone 3} | {2020-03-10} | <ul><li>[ ]</li></ul> |
+| {Milestone 1} | {2020-01-10} | &#9745;  |
+| {Milestone 2} | {2020-02-10} | &#9744;  |
+| {Milestone 3} | {2020-03-10} | &#9744;  |
