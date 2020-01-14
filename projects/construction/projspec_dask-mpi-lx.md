@@ -1,11 +1,10 @@
 # Project: Dask-MPI-LX
 
-Dask-MPI Labextension 
+Dask-MPI Labextension
 
 ## Campaigns:
 
-- {Campaign:CODENAME1}
-- {Campaign:CODENAME2}
+- WORKFLOWS
 
 ## Overview
 
