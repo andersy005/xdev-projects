@@ -247,7 +247,7 @@ or
 
 | Milestone        | Deadline   | Done    |
 | ---------------- | ---------- |:-------:|
-| 1. Lorem Ipsum.. | 2020-xx-xx | &#9744; |
+| 1. Lorem Ipsum.. | 2020-xx-xx | [ ]     |
 
 ## References
 
