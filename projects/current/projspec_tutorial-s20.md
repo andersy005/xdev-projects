@@ -55,7 +55,7 @@ The target audience will be NCAR staff and their external collaborators.
 ## Milestones & Timeline
 
 | Milestone                                  | Deadline         | Done    |
-|--------------------------------------------|------------------|---------|
+|:-------------------------------------------|:----------------:|:-------:|
 | 1. Reserve rooms                           | 2020-01-10       | &#9746; |
 | 2. Registration/Survey Form & Announcement | 2020-01-17       | &#9746; |
 | 3. Registration/Survey Pre-Analysis        | 2020-02-14       | &#9744; |
