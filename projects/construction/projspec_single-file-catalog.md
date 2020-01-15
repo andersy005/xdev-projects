@@ -12,7 +12,9 @@
   - [References](#references)
           - [tags: `intake-esm` `esm-collection-spec`](#tags-intake-esm-esm-collection-spec)
 
-## Campaign
+## Campaigns
+
+- WORKFLOWS
 
 ## Overview
 
@@ -218,10 +220,10 @@ or
 
   - Accepted values for `catalog_type` would include `dict` for `catalog_dict`     key and `file` for `catalog_file` key.
   - Errors if `catalog_type` not in `{"dict", "file"}`
-  - Should we add an `orient` argument to control the type of the values of the dictionary??? For instance, `orient='dict'` would yield option 1) and `orient='records'` would yield option 2) described above. 
+  - Should we add an `orient` argument to control the type of the values of the dictionary??? For instance, `orient='dict'` would yield option 1) and `orient='records'` would yield option 2) described above.
 
 ```python
-   def serialize(self, name, catalog_type='file', 
+   def serialize(self, name, catalog_type='file',
                   orient='records', directory=None):
        ...
 ```
@@ -243,9 +245,9 @@ or
 
 ## Milestones & Timeline
 
-| Milestone        | Deadline   |
-| ---------------- | ---------- |
-| 1. Lorem Ipsum.. | 2020-xx-xx |
+| Milestone        | Deadline   | Done    |
+|:-----------------|:----------:|:-------:|
+| 1. Lorem Ipsum.. | 2020-xx-xx | &#9744; |
 
 ## References
 

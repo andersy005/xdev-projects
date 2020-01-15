@@ -1,11 +1,10 @@
 # Project: Dask-MPI-LX
 
-Dask-MPI Labextension 
+Dask-MPI Labextension
 
 ## Campaigns:
 
-- {Campaign:CODENAME1}
-- {Campaign:CODENAME2}
+- WORKFLOWS
 
 ## Overview
 
@@ -49,8 +48,8 @@ discussed it in [Dask-MPI Issue #9](https://github.com/dask/dask-mpi/issues/9).
 
 ## Milestones & Timeline
 
-| Milestone                                      | Deadline     |
-|------------------------------------------------|--------------|
-| JupyterHub Dask-MPI demonstration              | {2020-01-10} |
-| `dask_mpi.MPICluster` JupyterHub demonstration | {2020-02-10} |
-| NCAR Dask-Labextension write-up                | {2020-03-10} |
+| Milestone                                      | Deadline     | Done    |
+|:-----------------------------------------------|:------------:|:-------:|
+| JupyterHub Dask-MPI demonstration              | {2020-01-10} | &#9744; |
+| `dask_mpi.MPICluster` JupyterHub demonstration | {2020-02-10} | &#9744; |
+| NCAR Dask-Labextension write-up                | {2020-03-10} | &#9744; |
