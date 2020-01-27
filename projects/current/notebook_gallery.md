@@ -4,6 +4,8 @@ Notebook Gallery Deployment
 
 ## Campaigns:
 
+- WORKFLOWS
+
 ## Overview
 
 The purpose of the notebook gallery is twofold: to provide a location to showcase example workflows demonstrating Pangeo recommended tools such as Xarray, Dask, and NCAR-specific developmens (intake-esm) in order to help educate and train both geoscientists and future members of the Pangeo development community, and to encourage the development of future workflow examples by providing a standard and said platform for the produced Jupyter notebooks.
