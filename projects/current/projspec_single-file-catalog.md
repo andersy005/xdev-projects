@@ -1,7 +1,7 @@
 # Project: Single File Catalog
 
 - [Project: Single File Catalog](#project-single-file-catalog)
-  - [Campaign](#campaign)
+  - [Campaigns](#campaigns)
   - [Overview](#overview)
   - [Repositories](#repositories)
   - [Skills & Knowledge](#skills--knowledge)
@@ -212,7 +212,7 @@ or
 ### esm-collection-spec side
 
 - [ ] Update the [specification file](https://github.com/NCAR/esm-collection-spec/blob/master/collection-spec/collection-spec.md)
-- [ ] Update the [validator script](https://github.com/NCAR/esm-collection-spec/blob/master/esmcol_validator/validator.py) -- this deliverable is not crucial. The existing validator is not up-to-date :)
+- [ ] Incorporate the [`esmcol`](https://github.com/NCAR/esm-collection-spec/blob/master/esmcol_validator/validator.py) validator into `intake-esm`
 
 ### intake-esm side
 
@@ -247,7 +247,10 @@ or
 
 | Milestone        | Deadline   | Done    |
 |:-----------------|:----------:|:-------:|
-| 1. Lorem Ipsum.. | 2020-xx-xx | &#9744; |
+| 1. Move `esmcol-validator` into its own repo | 2020-01-21 | &#9744; |
+| 2. Update `esmcol-validator` and cut first release | 2020-01-21 | &#9744; |
+| 3. Incorporate `esmcol-validator` into intake-esm | 2020-01-22 | &#9744; |
+| 4. Support Single File Catalog in intake-esm | 2020-01-23 | &#9744; |
 
 ## References
 
