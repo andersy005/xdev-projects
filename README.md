@@ -28,8 +28,10 @@ Our work can be categorized into one of two categories:
   just because its required to do a good job on our projects, but may not directly
   impact or even be associated with an existing project or campaign.
 
-- ***Project*** work is work on a specific project, tied to a measurable goal of
-  that project.  Most of our work should be project work.
+- ***Project*** work is work on a specific project, tied to a measurable goal (or
+  goals) of that project.  Most of our work should be project work.  Projects
+  should be scoped with the intention that they can be *fully completed* in a
+  matter of 2-3 months (i.e., quarterly), but shorter projects are acceptable.
 
 This repository is meant to help organize and plan our *project* work.  The intent
 is for each project to be described by a single document, a *Project Specification*
