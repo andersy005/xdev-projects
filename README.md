@@ -64,7 +64,7 @@ requirements for defining a campaign as much less stringent.
     `campspec_{codename}` where `{codename}` is replaced by the campaign codename.
   - **`campaigns/current/`**: All campaign specification documents for on-going
     campaigns should be placed here.
-  - **`campaigns/complete/`**: All campaign specification documents for completed
-    campaignS should be placed here.
+  - **`campaigns/former/`**: All campaign specification documents for *obsolete*
+    campaigns should be placed here.
   - **`campaigns/construction/`**: All campaign specification documents for campaigns
     that are still being constructed/specified should be placed here.
