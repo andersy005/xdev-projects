@@ -28,8 +28,10 @@ Our work can be categorized into one of two categories:
   just because its required to do a good job on our projects, but may not directly
   impact or even be associated with an existing project or campaign.
 
-- ***Project*** work is work on a specific project, tied to a measurable goal of
-  that project.  Most of our work should be project work.
+- ***Project*** work is work on a specific project, tied to a measurable goal (or
+  goals) of that project.  Most of our work should be project work.  Projects
+  should be scoped with the intention that they can be *fully completed* in a
+  matter of 2-3 months (i.e., quarterly), but shorter projects are acceptable.
 
 This repository is meant to help organize and plan our *project* work.  The intent
 is for each project to be described by a single document, a *Project Specification*
@@ -42,9 +44,6 @@ requirements for defining a campaign as much less stringent.
 - **`projects/`**: This directory contains all project-related specifications and
   templates.
 
-  - **`projects/projspec_template.md`**: A template for *Project Specification*
-    documents.  When a new project is defined/specified, it should be named
-    `projspec_{codename}` where `{codename}` is replaced by the project codename.
   - **`projects/current/`**: All project specification documents for on-going
     projects should be placed here.
   - **`projects/complete/`**: All project specification documents for completed
@@ -53,16 +52,19 @@ requirements for defining a campaign as much less stringent.
     that are still being constructed/specified should be placed here.  This includes
     projects that are waiting to start (and, therefore, don't have milestone dates
     defined, yet).
+  - **`projects/construction/projspec_template.md`**: A template for *Project Specification*
+    documents.  When a new project is defined/specified, it should be named
+    `projspec_{codename}` where `{codename}` is replaced by the project codename.
 
 - **`campaigns/`**: This directory contains all campaign-related specifications and
   templates.
 
-  - **`campaigns/campspec_template.md`**: A template for *Campaign Specification*
-    documents.  When a new campaign is defined/specified, it should be named
-    `campspec_{codename}` where `{codename}` is replaced by the campaign codename.
   - **`campaigns/current/`**: All campaign specification documents for on-going
     campaigns should be placed here.
-  - **`campaigns/complete/`**: All campaign specification documents for completed
-    campaignS should be placed here.
+  - **`campaigns/former/`**: All campaign specification documents for *obsolete*
+    campaigns should be placed here.
   - **`campaigns/construction/`**: All campaign specification documents for campaigns
     that are still being constructed/specified should be placed here.
+  - **`campaigns/construction/campspec_template.md`**: A template for *Campaign Specification*
+    documents.  When a new campaign is defined/specified, it should be named
+    `campspec_{codename}` where `{codename}` is replaced by the campaign codename.
