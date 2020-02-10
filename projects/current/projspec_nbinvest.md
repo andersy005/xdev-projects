@@ -52,9 +52,9 @@ To do this we have to answer a number of questions:
 
 | Milestone     | Deadline     |
 |---------------|--------------|
-| Answer for Q6 | 2020-02-07 |
-| Answer for Q1 | 2020-02-14 |
-| Answer for Q2 | 2020-02-21 |
+| Answer for Q6 | 2020-02-14 |
+| Answer for Q1 | 2020-02-21 |
+| Answer for Q2 | 2020-02-28 |
 | Answer for Q3 | 2020-02-28 |
 | Answer for Q4 | 2020-03-06 |
 | Answer for Q5 | 2020-03-13 |
