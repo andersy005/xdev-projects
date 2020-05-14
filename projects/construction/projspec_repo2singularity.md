@@ -67,5 +67,5 @@ This project is going to address the first point (1): **Dynamic image building f
 | Milestone                                      | Deadline     | Done    |
 |:-----------------------------------------------|:------------:|:-------:|
 | `repo2singularity` prototype implementation    | {2020-05-18} | &#9744; |
-| `repo2singularity`  demonstration              | {2020-05-27} | &#9744; |
+| `repo2singularity` demonstration               | {2020-05-27} | &#9744; |
 | `repo2singularity` write-up                    | {2020-06-15} | &#9744; |
