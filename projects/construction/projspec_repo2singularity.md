@@ -13,7 +13,7 @@ Repo2singularity
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub): Provides authentication, and spawns single user Jupyter Notebook servers.
 - [Repo2Docker](https://github.com/jupyter/repo2docker): Generates a Docker image from the Git Repo.
   
-Currently, BinderHub as a Python package can not run on traditional HPC systems. As [Joe Hamman](https://github.com/jhamman) pointed out in [BinderHub for HPC](https://discourse.jupyter.org/t/binderhub-for-hpc/143/4) post on discourse, some of the reasons why it's difficult to run BinderHub on HPC include:
+Currently, BinderHub as a Python package can not run on traditional HPC systems. As [Joe Hamman](https://github.com/jhamman) pointed out in the [BinderHub for HPC](https://discourse.jupyter.org/t/binderhub-for-hpc/143/4) post on discourse, some of the reasons why it's difficult to run BinderHub on HPC include:
 
 - HPC systems are rarely container friendly (BinderHub requires both Kubernetes and Docker).
 - Often compute nodes do not have access to the outside network.
