@@ -20,7 +20,7 @@ Currently, BinderHub as a Python package can not run on traditional HPC systems.
 - Managing a server attached to an HPC is not going to be popular from sys admins (though this opinion is changing in the HPC world)
 - Provisioning resources requires waiting in a job queue.
 
-Despite these challenges, there's hope that we can re-purpose some key pieces of binderhub, and be able to get *binderhub like functionality on HPC*. [Yuvi Panda](https://github.com/yuvipanda) suggested breaking BinderHub down into two components:
+Despite these challenges, there's hope that we can re-purpose some key pieces of BinderHub, and be able to get *BinderHub-like functionality on HPC*. [Yuvi Panda](https://github.com/yuvipanda) suggested breaking BinderHub down into two components:
 
 1. Dynamic image building from a git repository. One way to accomplish this on an HPC system is to swap Docker with some HPC compatible container/image builder. For example [Singularity](https://github.com/hpcng/singularity), [Shifter](https://github.com/NERSC/shifter), [Charliecloud](https://github.com/hpc/charliecloud).
 2. Launching an interactive web application from inside the image. This involves some work on JupyterHub's side.  
