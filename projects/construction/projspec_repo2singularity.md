@@ -25,7 +25,7 @@ Despite these challenges, there's hope that we can re-purpose some key pieces of
 1. Dynamic image building from a git repository. One way to accomplish this on an HPC system is to swap Docker with some HPC compatible container/image builder. For example [Singularity](https://github.com/hpcng/singularity), [Shifter](https://github.com/NERSC/shifter), [Charliecloud](https://github.com/hpc/charliecloud).
 2. Launching an interactive web application from inside the image. This involves some work on JupyterHub's side.  
 
-This project is going to address the first point (1): **Dynamic image building from a git repository**. Since singularity containers are currently supported on Cheyenne (`module load singularity/3.3.0`), this project will implement **repo2singularity**, a lightweight alternative to repo2docker that can be run on Cheyenne, Casper or other HPC systems lacking docker support.
+This project is going to address the first point (1): **Dynamic image building from a git repository**. Since singularity containers are currently supported on Cheyenne (`module load singularity/3.3.0`), this project will implement **repo2singularity**, a sister project of repo2docker that will allow users to turn git repos into singularity images that can be run on Cheyenne, Casper or other HPC systems that support singularity containers.
 
 ## Repositories
 
