@@ -16,7 +16,7 @@ Repo2singularity
 Currently, BinderHub as a Python package can not run on traditional HPC systems. As [Joe Hamman](https://github.com/jhamman) pointed out in the [BinderHub for HPC](https://discourse.jupyter.org/t/binderhub-for-hpc/143/4) post on discourse, some of the reasons why it's difficult to run BinderHub on HPC include:
 
 - HPC systems are rarely container friendly (BinderHub requires both Kubernetes and Docker).
-- Often compute nodes do not have access to the outside network.
+- Often, compute nodes do not have access to the outside network.
 - Managing a server attached to an HPC is not going to be popular from sys admins (though this opinion is changing in the HPC world)
 - Provisioning resources requires waiting in a job queue.
 
