@@ -31,7 +31,7 @@ The success of this project will be determined by a working Pangeo deployment on
 
 - Knowledge of [BinderHub](https://github.com/jupyterhub/binderhub): allows users to interact with code and environment from a Git Repo within a JupyterHub instance.
 - Knowledge of [JupyterHub](https://github.com/jupyterhub/jupyterhub): provides authentication, and spawns single user Jupyter Notebook servers.
-- Knowledge of [Kubernetes](https://kubernetes.io/): Kubernetes is an orchestration tool allowing users to run and manage container based workfloads.
+- Knowledge of [Kubernetes](https://kubernetes.io/): Kubernetes is an orchestration tool allowing users to run and manage container based workloads.
 - Knowledge of [Dask-Gateway](https://gateway.dask.org/): Dask Gateway provides a secure, multi-tenant server for managing Dask clusters.
 - Knowledge of [Terraform](https://www.terraform.io/docs/index.html): Terraform is an open source tool that allows a user to define their infrastructure as code usinga simple, declarative language and to deploy and manage that infrastructure across a variety of public cloud providers (e.g., Google Cloud Platform, Amazon Web Services, Microsoft Azure, DigitalOcean) using a few commands.
 - Knowlege of [GitHub Actions](https://github.com/features/actions): GitHub Actions provide continuous integration and continous delivery features through GitHub.
