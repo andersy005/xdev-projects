@@ -49,5 +49,6 @@ The success of this project will be determined by a working Pangeo deployment on
 |:-----------------------------------------------|:------------:|:-------:|
 | BinderHub first deployment    | {2020-07-18} | &#9744; |
 | Enable Dask-Gateway                    | {2020-08-18} | &#9744; |
+| Testing and Benchmarking            | {2020-10-18} | &#9744; |
 | An analysis of usage metrics / cost collection                    | {2020-11-18} | &#9744; |
 | Write-up                    | {2020-12-18} | &#9744; |
