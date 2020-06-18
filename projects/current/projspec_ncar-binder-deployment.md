@@ -14,7 +14,11 @@
 
 ## Overview
 
-The goal of this project is to gain expertise in deploying and maintaining Pangeo infrastructure in a cloud computing setting, specifically on Amazon Web Services (AWS). As part of this project, we will deploy an NCAR Pangeo+Binder Hub on AWS using GitHub Actions and HashiCorp Terraform.
+The primary goal of this project is to gain expertise in deploying and maintaining Pangeo infrastructure in a cloud computing setting, specifically on Amazon Web Services (AWS). As part of this project, we will deploy an NCAR Pangeo+Binder Hub on AWS using GitHub Actions and HashiCorp Terraform.
+A secondary goal of this project is to provide a platform for developing and testing new technologies in the Pangeo software ecosystem that can be deployed on NCAR systems or with other Pangeo cloud deployments.
+The success of this project will be determined by a working Pangeo deployment on AWS that we can use, internally, for testing, prototyping, and experimentation.
+
+**NOTE:** Cost of running this service will be closely monitored.  Success of this project can only be achieved if the costs are both *well understood* and *affordable*.
 
 ## Repositories
 
