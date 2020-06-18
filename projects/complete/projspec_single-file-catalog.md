@@ -10,11 +10,10 @@
     - [intake-esm side](#intake-esm-side)
   - [Milestones & Timeline](#milestones--timeline)
   - [References](#references)
-          - [tags: `intake-esm` `esm-collection-spec`](#tags-intake-esm-esm-collection-spec)
 
 ## Campaigns
 
-- WORKFLOWS
+- WORKFLOWS: Ingestion
 
 ## Overview
 
@@ -265,5 +264,3 @@ Pull request for #4:  [https://github.com/NCAR/intake-esm/pull/195]
 - [https://github.com/NCAR/intake-esm/pull/179#issuecomment-553630201](https://github.com/NCAR/intake-esm/pull/179#issuecomment-553630201)
 
 - [https://github.com/NCAR/intake-esm/issues/166](https://github.com/NCAR/intake-esm/issues/166)
-
-###### tags: `intake-esm` `esm-collection-spec`
